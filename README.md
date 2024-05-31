@@ -19,7 +19,6 @@ This Spring Boot application manages store products and shopping carts. It inclu
 - **Spring Boot 3.3.0**
 - **Spring Data JPA**
 - **H2 Database** (for testing)
-- **Jakarta Persistence API** (JPA)
 - **JUnit 5** for unit tests
 
 ## Project Structure
